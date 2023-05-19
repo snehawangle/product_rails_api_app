@@ -1,0 +1,2 @@
+api: rails server –p 3001
+web: yarn --cwd td_app start

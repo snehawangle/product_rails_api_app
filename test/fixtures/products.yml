@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  sku: MyString
+  supplier_name: MyString
+  color: MyString
+  size: MyString
+  unit: 1
+  in_stock: 
+  type: 
+
+two:
+  name: MyString
+  description: MyText
+  sku: MyString
+  supplier_name: MyString
+  color: MyString
+  size: MyString
+  unit: 1
+  in_stock: 
+  type: 
